@@ -19,3 +19,7 @@ This script solves two major problems:
 2. Install the dependencies:
    ```bash
    python -m pip install polars pyarrow
+3. Place your all-domestic-certificates.zip from the EPC Open Data Service into the project folder.
+   
+4.Run the converter :
+   python convert.py
